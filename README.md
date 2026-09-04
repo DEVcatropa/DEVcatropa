@@ -35,7 +35,7 @@
 <b>CORE_IDENTITY</b>   : Alexander Souza Marcondes de Moraes Catropa
 <b>SYSTEM_ROLE</b>     : Full Stack Developer (Java · Python · Node.js · React · TypeScript)
 <b>TRACK_RECORD</b>    : 3 to 5 Years of Remote Enterprise & Freelance Engineering Deployments
-<b>ANALYTICAL_BASE</b> : Civil Engineering (9th Semester — Complex Problem-Solving & Applied Logic)
+<b>ANALYTICAL_BASE</b> : Civil Engineering (Complex Problem-Solving & Applied Logic)
 <b>TRAINING_TRACK</b>  : Full Stack & AI-Assisted Architecture — OneBitCode Clube
 <b>TARGET_DOMAIN</b>   : Highly scalable microservices, resilient APIs, and reactive interfaces
 <span style="color: #7aa2f7;">------------------------------------------------------------------------------------------</span>
